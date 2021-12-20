@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently  a graduate student persuing a master's degree in Analytics in Boston 
+🔭 I’m currently  a graduate student persuing a master's degree in Analytics at Hult International School in Boston 
 
 
 📫 How to reach me: dmanneschi@yahoo.it 
