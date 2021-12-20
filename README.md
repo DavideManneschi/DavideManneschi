@@ -1,14 +1,12 @@
 ### Hi there 👋
 
 
-🔭 I’m currently  a graduate student persuing a master's degree in Analytics
+🔭 I’m currently  a graduate student persuing a master's degree in Analytics in Boston 
 
 
 📫 How to reach me: dmanneschi@yahoo.it 
 
 🚀 I always try to better my work, day by day, improvement by improvement
-
-
 
 
 💡 See my Tableau work!
